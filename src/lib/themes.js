@@ -1,0 +1,18 @@
+export const themes = [
+    'christmas colours',
+    'summer vacation',
+    'winter vacation',
+    'hobbies',
+    'from abroad',
+    'pre-1990',
+    'this year',
+    'fun and games',
+    'A through L',
+    'M through Z',
+    'foreign languages',
+    'reused',
+    'homemade',
+    'wearable',
+    'soft',
+    'in the kitchen',
+]
